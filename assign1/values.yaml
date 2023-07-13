@@ -1,0 +1,4 @@
+tomcatPassword: nwA5xp2BGI
+service:
+    type: NodePort
+    nodePort: 30007
